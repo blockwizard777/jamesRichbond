@@ -8,6 +8,9 @@
 <li>Good Passion</li>
 <li>Fast Speed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
 <li>High quality code</li>
+<li>Friendly code</li>
+<li>Fun working together</li>
+<li>Boosted satisfaction😄</li>
 </ul>
 </td>
 <td>
@@ -26,7 +29,7 @@
 </table>
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=jamesRichbond&show_icons=true&theme=radical&include=c++)](https://github.com/JamesRichbond/github-readme-stats)
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&theme=monokai&count_private=true">
+<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&theme=monokai&count_private=true">
 <hr>
 
 <div align="center">
