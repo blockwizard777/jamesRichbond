@@ -29,7 +29,7 @@
 </table>
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=jamesRichbond&show_icons=true&theme=radical&include=c++)](https://github.com/JamesRichbond/github-readme-stats)
-<img align="right" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&theme=monokai&count_private=true">
+<img align="right" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&theme=monokai&count_private=true">
 <hr>
 
 <div align="center">
