@@ -27,12 +27,21 @@
   </td>
  </tr>
 </table>
-
-[![James's github stats](https://github-readme-stats.vercel.app/api?username=jamesRichbond&show_icons=true&theme=radical&include=c++)](https://github.com/JamesRichbond/github-readme-stats)
-<img align="right" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&theme=monokai&count_private=true">
 <hr>
-
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to communicate with various people</b> so if you want to say <b>hi, I'm happy to meet more people!</b> :)</em>
- 
 </div>
+
+<h2>Status</h2>
+
+<div align="center">
+  <a href="https://github.com/jamesRichbond">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesRichbond&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesRichbond&layout=compact&langs_count=10&theme=dark"/>
+<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/> -->
+   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamesRichbond&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
+  </a>
+</div>
+
+ 
+
