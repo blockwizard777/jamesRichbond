@@ -7,8 +7,8 @@
 <ul>
 <li>Good Passion</li>
 <li>Fast Speed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
-<li>High quality code</li>
-<li>Friendly code</li>
+<li>High quality and Friendly code</li>
+<li>Tenacity to debug the challenging issue</li>
 <li>Fun working together</li>
 <li>Boosted satisfaction😄</li>
 </ul>
