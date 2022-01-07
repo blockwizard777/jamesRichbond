@@ -39,7 +39,7 @@
   <a href="https://join.skype.com/invite/AfjdkEfFQbIy">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="richbondjames@gmail.com">
+  <a href="mailto:richbondjames@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
