@@ -32,7 +32,7 @@
 <hr>
 
 ### **_Contact Details_**
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://t.me/DripMicro">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -42,7 +42,7 @@
   <a href="mailto:richbondjames@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+</p> -->
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to communicate with various people</b> so if you want to say <b>hi, I'm happy to meet more people!</b> :)</em>
 </div>
